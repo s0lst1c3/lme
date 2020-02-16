@@ -54,7 +54,7 @@ Figure 6: Import finished screen
 ## 1.2 Organisational Units (OU)
 
 What is an Organisational Unit? 
-An Orgnaisational Unit can in its simplest form be thought of as a folder to contain Users, Computers and groups.
+An Organisational Unit can in its simplest form be thought of as a folder to contain Users, Computers and groups.
 OUs can be used to select a subset of computers that you want to be included in the LME Client group for testing before rolling out LME site wide.
 
 
